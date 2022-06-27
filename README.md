@@ -9,7 +9,14 @@ Mobile UI for secondary school with 13 views (1 activity + 12 fragments), includ
 [Download XD file][1]
 
 ## View Demo Videos
+
 [App Demo][2] | [Assets Demo][3] | [Art board Demo][4] | [Prototype Demo][5]
+
+Fragments
+![Fragments](assets/gifs/fragments.gif)
+
+Side Menu
+![Side menu](assets/gifs/side%20menu.gif)
 
 # Included Fragments
 
